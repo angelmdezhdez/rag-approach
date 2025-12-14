@@ -1,0 +1,31 @@
+Pluma Negra: precio por unidad: 3, al mayoreo: 2.5 superior a 10
+Pluma Azul: precio por unidad: 2, al mayoreo: 1.5 superior a 20
+Pluma Roja: precio por unidad: 5, al mayoreo: 4.0 superior a 15
+Cuaderno Rayas Grande: precio por unidad: 20, al mayoreo: 18 superior a 15
+Cuaderno Rayas Chico: precio por unidad: 10, al mayoreo: 8 superior a 30
+Cuaderno Cuadros Grande: precio por unidad: 25, al mayoreo: 22 superior a 10
+Cuaderno Cuadros Chico: precio por unidad: 12, al mayoreo: 10 superior a 25
+Mochila Escolar: precio por unidad: 50, al mayoreo: 45 superior a 5
+Mochila Deportiva: precio por unidad: 70, al mayoreo: 65 superior a 3
+Lápiz HB: precio por unidad: 1, al mayoreo: 0.8 superior a 50
+Copias Carta: precio por unidad: 0.5, al mayoreo: 0.3 superior a 100
+Copias Oficio: precio por unidad: 0.75, al mayoreo: 0.5 superior a 80
+Borrador Grande: precio por unidad: 8, al mayoreo: 6 superior a 40
+Borrador Chico: precio por unidad: 4, al mayoreo: 3 superior a 60
+Cartulina Blanca: precio por unidad: 15, al mayoreo: 12 superior a 20
+Cartulina de Color Pastel: precio por unidad: 18, al mayoreo: 15 superior a 15
+Cartulina de Color Neón: precio por unidad: 20, al mayoreo: 17 superior a 10
+Marcatextos Fluorescentes: precio por unidad: 6, al mayoreo: 5 superior a 30
+Resistol Barra Grande: precio por unidad: 10, al mayoreo: 8 superior a 25
+Resistol Barra Chico: precio por unidad: 5, al mayoreo: 4 superior a 50
+Tijeras Escolar: precio por unidad: 12, al mayoreo: 10 superior a 15
+Cutter Profesional: precio por unidad: 15, al mayoreo: 12 superior a 10
+Libros para Colorear: precio por unidad: 8, al mayoreo: 6 superior a 20
+Colores de Madera (10pzs): precio por unidad: 25, al mayoreo: 20 superior a 15
+Colores de Madera (24pzs): precio por unidad: 40, al mayoreo: 35 superior a 10
+Pegamento Líquido Chico: precio por unidad: 7, al mayoreo: 5 superior a 30
+Pegamento Líquido Grande: precio por unidad: 12, al mayoreo: 10 superior a 20
+Impresión a Color: precio por unidad: 3, al mayoreo: 2 superior a 50
+Impresión Blanco y Negro: precio por unidad: 2, al mayoreo: 1.5 superior a 60
+Folder Carta: precio por unidad: 3, al mayoreo: 2.5 superior a 100
+Folder Oficio: precio por unidad: 4, al mayoreo: 3.5 superior a 80
