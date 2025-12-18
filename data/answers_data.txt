@@ -1,0 +1,29 @@
+Pregunta: ¿Cuánto cuesta Mochila Deportiva al mayoreo?
+Respuesta: 65 pesos (superior a 3 piezas).
+
+Pregunta: ¿Cuánto cuesta Impresión Blanco y Negro al mayoreo?
+Respuesta: 1.5 pesos (en compras superiores a 60 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Rayas Chico?
+Respuesta: 10 pesos por unidad (u 8 pesos al mayoreo superior a 30 piezas).
+
+Pregunta: ¿Cuánto cuesta Cutter Profesional al mayoreo?
+Respuesta: Cuesta 12 pesos por pieza comprando más de 10 unidades.
+
+Pregunta: ¿Cuánto cuesta Pegamento Líquido Grande al mayoreo?
+Respuesta: 10 pesos (superior a 20 piezas).
+
+Pregunta: ¿Cuánto cuesta Cartulina Blanca?
+Respuesta: La Cartulina Blanca cuesta 15 pesos por unidad y 12 pesos al mayoreo (más de 20 piezas).
+
+Pregunta: ¿Cuánto cuesta Mochila Escolar?
+Respuesta: La unidad cuesta 50 pesos y al mayoreo (más de 5 piezas) cuesta 45 pesos.
+
+Pregunta: ¿Cuánto cuesta Lápiz HB al mayoreo?
+Respuesta: 0.8 pesos superior a 50 piezas.
+
+Pregunta: ¿Cuál es el precio de un teléfono móvil?
+Respuesta: No hay información del producto en el contexto proporcionado.
+
+Pregunta: ¿Cuánto cuesta Impresión Blanco y Negro?
+Respuesta: Precio por unidad: 2 pesos; al mayoreo (más de 60 piezas): 1.5 pesos.

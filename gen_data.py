@@ -1,9 +1,6 @@
-import google.generativeai as genai
 import numpy as np
 import os
-from config.settings import API_KEY
-
-genai.configure(api_key = API_KEY)
+import random
 
 articles = {
     # format: 'Article Name': [Price, threshold, price after threshold]
@@ -46,17 +43,32 @@ for article, details in articles.items():
     price = details[0]
     threshold = details[1]
     price_after_thresshold = details[2]
-    data.append(f'{article}: precio por unidad: {price}, al mayoreo: {price_after_thresshold} superior a {threshold}')
+    data.append(f'{article}: precio por unidad: {price} pesos')
+    data.append(f'{article} al mayoreo: {price_after_thresshold} pesos superior a {threshold} piezas')
+
+random.shuffle(data)
 
 with open('data/articles_data.txt', 'w') as file:
     for line in data:
         file.write(line + '\n')
 
-embeddings = []
-for line in data:
-    line_emb = genai.embed_content(model='models/embedding-001', content=line, task_type='retrieval_document')
-    embeddings.append(line_emb)
+questions = []
 
-embeddings = np.array(embeddings)
+for article, details in articles.items():
+    price = details[0]
+    threshold = details[1]
+    price_after_thresshold = details[2]
+    questions.append(f'¿Cuánto cuesta {article}?')
+    questions.append(f'¿Cuánto cuesta {article} al mayoreo?')
 
-np.save('data/articles_embeddings.npy', embeddings)
+random.shuffle(questions)
+
+with open('data/questions_data.txt', 'w') as file:
+    for line in questions:
+        file.write(line + '\n')
+
+    file.write('¿Cuánto cuestan los autos de carreras?\n')
+    file.write('¿Cuál es el precio de los juguetes?\n')
+    file.write('¿Cuánto cuesta una computadora portátil?\n')
+    file.write('¿Cuál es el precio de un teléfono móvil?\n')
+    file.write('¿Cuánto cuesta una bicicleta?')

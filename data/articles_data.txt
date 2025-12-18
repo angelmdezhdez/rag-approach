@@ -1,31 +1,62 @@
-Pluma Negra: precio por unidad: 3, al mayoreo: 2.5 superior a 10
-Pluma Azul: precio por unidad: 2, al mayoreo: 1.5 superior a 20
-Pluma Roja: precio por unidad: 5, al mayoreo: 4.0 superior a 15
-Cuaderno Rayas Grande: precio por unidad: 20, al mayoreo: 18 superior a 15
-Cuaderno Rayas Chico: precio por unidad: 10, al mayoreo: 8 superior a 30
-Cuaderno Cuadros Grande: precio por unidad: 25, al mayoreo: 22 superior a 10
-Cuaderno Cuadros Chico: precio por unidad: 12, al mayoreo: 10 superior a 25
-Mochila Escolar: precio por unidad: 50, al mayoreo: 45 superior a 5
-Mochila Deportiva: precio por unidad: 70, al mayoreo: 65 superior a 3
-Lápiz HB: precio por unidad: 1, al mayoreo: 0.8 superior a 50
-Copias Carta: precio por unidad: 0.5, al mayoreo: 0.3 superior a 100
-Copias Oficio: precio por unidad: 0.75, al mayoreo: 0.5 superior a 80
-Borrador Grande: precio por unidad: 8, al mayoreo: 6 superior a 40
-Borrador Chico: precio por unidad: 4, al mayoreo: 3 superior a 60
-Cartulina Blanca: precio por unidad: 15, al mayoreo: 12 superior a 20
-Cartulina de Color Pastel: precio por unidad: 18, al mayoreo: 15 superior a 15
-Cartulina de Color Neón: precio por unidad: 20, al mayoreo: 17 superior a 10
-Marcatextos Fluorescentes: precio por unidad: 6, al mayoreo: 5 superior a 30
-Resistol Barra Grande: precio por unidad: 10, al mayoreo: 8 superior a 25
-Resistol Barra Chico: precio por unidad: 5, al mayoreo: 4 superior a 50
-Tijeras Escolar: precio por unidad: 12, al mayoreo: 10 superior a 15
-Cutter Profesional: precio por unidad: 15, al mayoreo: 12 superior a 10
-Libros para Colorear: precio por unidad: 8, al mayoreo: 6 superior a 20
-Colores de Madera (10pzs): precio por unidad: 25, al mayoreo: 20 superior a 15
-Colores de Madera (24pzs): precio por unidad: 40, al mayoreo: 35 superior a 10
-Pegamento Líquido Chico: precio por unidad: 7, al mayoreo: 5 superior a 30
-Pegamento Líquido Grande: precio por unidad: 12, al mayoreo: 10 superior a 20
-Impresión a Color: precio por unidad: 3, al mayoreo: 2 superior a 50
-Impresión Blanco y Negro: precio por unidad: 2, al mayoreo: 1.5 superior a 60
-Folder Carta: precio por unidad: 3, al mayoreo: 2.5 superior a 100
-Folder Oficio: precio por unidad: 4, al mayoreo: 3.5 superior a 80
+Folder Oficio al mayoreo: 3.5 pesos superior a 80 piezas
+Borrador Chico al mayoreo: 3 pesos superior a 60 piezas
+Cuaderno Cuadros Grande: precio por unidad: 25 pesos
+Cartulina de Color Neón al mayoreo: 17 pesos superior a 10 piezas
+Pluma Negra: precio por unidad: 3 pesos
+Impresión a Color: precio por unidad: 3 pesos
+Mochila Escolar al mayoreo: 45 pesos superior a 5 piezas
+Folder Carta al mayoreo: 2.5 pesos superior a 100 piezas
+Folder Carta: precio por unidad: 3 pesos
+Cuaderno Rayas Grande al mayoreo: 18 pesos superior a 15 piezas
+Pegamento Líquido Grande al mayoreo: 10 pesos superior a 20 piezas
+Cuaderno Rayas Chico al mayoreo: 8 pesos superior a 30 piezas
+Cutter Profesional: precio por unidad: 15 pesos
+Impresión Blanco y Negro: precio por unidad: 2 pesos
+Marcatextos Fluorescentes: precio por unidad: 6 pesos
+Resistol Barra Chico al mayoreo: 4 pesos superior a 50 piezas
+Folder Oficio: precio por unidad: 4 pesos
+Cuaderno Cuadros Grande al mayoreo: 22 pesos superior a 10 piezas
+Cuaderno Cuadros Chico al mayoreo: 10 pesos superior a 25 piezas
+Copias Oficio: precio por unidad: 0.75 pesos
+Cartulina de Color Neón: precio por unidad: 20 pesos
+Cartulina de Color Pastel al mayoreo: 15 pesos superior a 15 piezas
+Pluma Azul: precio por unidad: 2 pesos
+Libros para Colorear: precio por unidad: 8 pesos
+Resistol Barra Grande al mayoreo: 8 pesos superior a 25 piezas
+Pluma Roja: precio por unidad: 5 pesos
+Lápiz HB: precio por unidad: 1 pesos
+Copias Carta al mayoreo: 0.3 pesos superior a 100 piezas
+Impresión Blanco y Negro al mayoreo: 1.5 pesos superior a 60 piezas
+Cartulina de Color Pastel: precio por unidad: 18 pesos
+Impresión a Color al mayoreo: 2 pesos superior a 50 piezas
+Mochila Escolar: precio por unidad: 50 pesos
+Cuaderno Rayas Chico: precio por unidad: 10 pesos
+Cartulina Blanca: precio por unidad: 15 pesos
+Borrador Grande al mayoreo: 6 pesos superior a 40 piezas
+Lápiz HB al mayoreo: 0.8 pesos superior a 50 piezas
+Resistol Barra Grande: precio por unidad: 10 pesos
+Borrador Grande: precio por unidad: 8 pesos
+Pegamento Líquido Chico: precio por unidad: 7 pesos
+Libros para Colorear al mayoreo: 6 pesos superior a 20 piezas
+Pluma Azul al mayoreo: 1.5 pesos superior a 20 piezas
+Colores de Madera (24pzs): precio por unidad: 40 pesos
+Cutter Profesional al mayoreo: 12 pesos superior a 10 piezas
+Cuaderno Cuadros Chico: precio por unidad: 12 pesos
+Colores de Madera (24pzs) al mayoreo: 35 pesos superior a 10 piezas
+Copias Carta: precio por unidad: 0.5 pesos
+Pluma Negra al mayoreo: 2.5 pesos superior a 10 piezas
+Mochila Deportiva al mayoreo: 65 pesos superior a 3 piezas
+Pegamento Líquido Grande: precio por unidad: 12 pesos
+Cuaderno Rayas Grande: precio por unidad: 20 pesos
+Tijeras Escolar al mayoreo: 10 pesos superior a 15 piezas
+Tijeras Escolar: precio por unidad: 12 pesos
+Colores de Madera (10pzs): precio por unidad: 25 pesos
+Pegamento Líquido Chico al mayoreo: 5 pesos superior a 30 piezas
+Mochila Deportiva: precio por unidad: 70 pesos
+Pluma Roja al mayoreo: 4.0 pesos superior a 15 piezas
+Cartulina Blanca al mayoreo: 12 pesos superior a 20 piezas
+Marcatextos Fluorescentes al mayoreo: 5 pesos superior a 30 piezas
+Copias Oficio al mayoreo: 0.5 pesos superior a 80 piezas
+Borrador Chico: precio por unidad: 4 pesos
+Colores de Madera (10pzs) al mayoreo: 20 pesos superior a 15 piezas
+Resistol Barra Chico: precio por unidad: 5 pesos
