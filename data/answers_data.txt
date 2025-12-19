@@ -27,3 +27,64 @@ Respuesta: No hay información del producto en el contexto proporcionado.
 
 Pregunta: ¿Cuánto cuesta Impresión Blanco y Negro?
 Respuesta: Precio por unidad: 2 pesos; al mayoreo (más de 60 piezas): 1.5 pesos.
+
+Pregunta: ¿Cuánto cuesta Pegamento Líquido Grande?
+Respuesta: El precio por unidad es de 12 pesos y al mayoreo es de 10 pesos (superior a 20 piezas).
+
+Pregunta: ¿Cuánto cuesta Resistol Barra Grande al mayoreo?
+Respuesta: 8 pesos superior a 25 piezas.
+
+Pregunta: ¿Cuánto cuesta Colores de Madera (10pzs)?
+Respuesta: Cuestan 25 pesos por unidad y 20 pesos al mayoreo (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Tijeras Escolar?
+Respuesta: 12 pesos por unidad y 10 pesos al mayoreo (más de 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Pegamento Líquido Chico al mayoreo?
+Respuesta: 5 pesos superior a 30 piezas.
+
+Pregunta: ¿Cuánto cuesta Cuaderno Cuadros Grande al mayoreo?
+Respuesta: 22 pesos (superior a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Cartulina de Color Neón al mayoreo?
+Respuesta: 17 pesos (en compras superiores a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Borrador Grande al mayoreo?
+Respuesta: 6 pesos (superior a 40 piezas).
+
+Pregunta: ¿Cuánto cuesta Resistol Barra Chico al mayoreo?
+Respuesta: 4 pesos (superior a 50 piezas).
+
+Pregunta: ¿Cuánto cuesta Pegamento Líquido Chico?
+Respuesta: 7 pesos por unidad y 5 pesos al mayoreo (superior a 30 piezas).
+
+Pregunta: ¿Cuánto cuesta Impresión a Color?
+Respuesta: 3 pesos por unidad (o 2 pesos al mayoreo superior a 50 piezas).
+
+Pregunta: ¿Cuánto cuesta Marcatextos Fluorescentes al mayoreo?
+Respuesta: 5 pesos (superior a 30 piezas).
+
+Pregunta: ¿Cuánto cuesta Lápiz HB?
+Respuesta: 1 peso por unidad y 0.8 pesos al mayoreo (más de 50 piezas).
+
+Pregunta: ¿Cuánto cuesta Pluma Roja?
+Respuesta: Cuesta 5 pesos por unidad y 4 pesos al mayoreo (más de 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Copias Carta al mayoreo?
+Respuesta: 0.3 pesos (superior a 100 piezas).
+
+Pregunta: ¿Cuánto cuesta Libros para Colorear al mayoreo?
+Respuesta: 6 pesos superior a 20 piezas.
+
+Pregunta: ¿Cuánto cuesta Folder Carta al mayoreo?
+Respuesta: 2.5 pesos (superior a 100 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Rayas Grande?
+Respuesta: Cuesta 20 pesos por unidad y 18 pesos al mayoreo (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Rayas Chico al mayoreo?
+Respuesta: 8 pesos (superior a 30 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Cuadros Chico al mayoreo?
+Respuesta: 10 pesos superior a 25 piezas.
+
