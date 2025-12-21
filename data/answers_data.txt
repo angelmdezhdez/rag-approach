@@ -88,3 +88,63 @@ Respuesta: 8 pesos (superior a 30 piezas).
 Pregunta: ¿Cuánto cuesta Cuaderno Cuadros Chico al mayoreo?
 Respuesta: 10 pesos superior a 25 piezas.
 
+Pregunta: ¿Cuánto cuesta Cartulina de Color Pastel?
+Respuesta: La unidad cuesta 18 pesos y al mayoreo 15 pesos (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Folder Oficio?
+Respuesta: Cuesta 4 pesos por unidad y 3.5 pesos al mayoreo (compras superiores a 80 piezas).
+
+Pregunta: ¿Cuánto cuesta Cartulina de Color Neón?
+Respuesta: Cuesta 20 pesos por unidad y 17 pesos al mayoreo (superior a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Copias Oficio al mayoreo?
+Respuesta: Cuestan 0.5 pesos a partir de 80 piezas.
+
+Pregunta: ¿Cuánto cuesta Pluma Azul al mayoreo?
+Respuesta: Cuesta 1.5 pesos en compras superiores a 20 piezas.
+
+Pregunta: ¿Cuánto cuesta Pluma Roja al mayoreo?
+Respuesta: 4 pesos (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Resistol Barra Grande?
+Respuesta: Cuesta 10 pesos por unidad y 8 pesos al mayoreo (en compras superiores a 25 piezas).
+
+Pregunta: ¿Cuánto cuesta Folder Carta?
+Respuesta: 3 pesos por unidad y 2.5 pesos al mayoreo (más de 100 piezas).
+
+Pregunta: ¿Cuánto cuesta Pluma Negra al mayoreo?
+Respuesta: 2.5 pesos (superior a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Impresión a Color al mayoreo?
+Respuesta: 2 pesos (en pedidos superiores a 50 piezas).
+
+Pregunta: ¿Cuánto cuesta Colores de Madera (24pzs)?
+Respuesta: 40 pesos por unidad y 35 pesos al mayoreo (más de 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Resistol Barra Chico?
+Respuesta: Cuesta 5 pesos por unidad y 4 pesos al mayoreo (más de 50 piezas).
+
+Pregunta: ¿Cuánto cuesta Borrador Chico al mayoreo?
+Respuesta: 3 pesos por más de 60 piezas.
+
+Pregunta: ¿Cuánto cuesta Libros para Colorear?
+Respuesta: Cuesta 8 pesos por unidad y 6 pesos al mayoreo (más de 20 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Cuadros Chico?
+Respuesta: El precio por unidad es de 12 pesos y al mayoreo es de 10 pesos (comprando más de 25 piezas).
+
+Pregunta: ¿Cuánto cuesta Pluma Azul?
+Respuesta: Cuesta 2 pesos por unidad y 1.5 pesos al mayoreo (superior a 20 piezas).
+
+Pregunta: ¿Cuánto cuesta Pluma Negra?
+Respuesta: Cuesta 3 pesos por unidad y 2.5 pesos al mayoreo (más de 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Colores de Madera (10pzs) al mayoreo?
+Respuesta: 20 pesos (comprando más de 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Cutter Profesional?
+Respuesta: Cuesta 15 pesos por unidad y 12 pesos al mayoreo (más de 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Mochila Deportiva?
+Respuesta: Cuesta 70 pesos por unidad y 65 pesos al mayoreo (superior a 3 piezas).
+
