@@ -148,3 +148,54 @@ Respuesta: Cuesta 15 pesos por unidad y 12 pesos al mayoreo (más de 10 piezas).
 Pregunta: ¿Cuánto cuesta Mochila Deportiva?
 Respuesta: Cuesta 70 pesos por unidad y 65 pesos al mayoreo (superior a 3 piezas).
 
+Pregunta: ¿Cuánto cuesta Folder Oficio al mayoreo?
+Respuesta: 3.5 pesos (superior a 80 piezas).
+
+Pregunta: ¿Cuánto cuesta Borrador Grande?
+Respuesta: 8 pesos por unidad y 6 pesos al mayoreo (superior a 40 piezas).
+
+Pregunta: ¿Cuánto cuesta Tijeras Escolar al mayoreo?
+Respuesta: 10 pesos (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Borrador Chico?
+Respuesta: El Borrador Chico cuesta 4 pesos por unidad y 3 pesos al mayoreo (comprando más de 60 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Cuadros Grande?
+Respuesta: Unidad: 25 pesos; mayoreo: 22 pesos (superior a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Cuaderno Rayas Grande al mayoreo?
+Respuesta: 18 pesos (superior a 15 piezas).
+
+Pregunta: ¿Cuánto cuesta Mochila Escolar al mayoreo?
+Respuesta: Cuesta 45 pesos en compras superiores a 5 piezas.
+
+Pregunta: ¿Cuánto cuesta Cartulina Blanca al mayoreo?
+Respuesta: Cuesta 12 pesos a partir de 20 piezas.
+
+Pregunta: ¿Cuánto cuesta Cartulina de Color Pastel al mayoreo?
+Respuesta: 15 pesos al comprar más de 15 piezas.
+
+Pregunta: ¿Cuánto cuesta Copias Carta?
+Respuesta: 0.5 pesos por unidad.
+
+Pregunta: ¿Cuánto cuesta Marcatextos Fluorescentes?
+Respuesta: Cuestan 6 pesos por unidad y 5 pesos al mayoreo (más de 30 piezas).
+
+Pregunta: ¿Cuánto cuesta Colores de Madera (24pzs) al mayoreo?
+Respuesta: 35 pesos (superior a 10 piezas).
+
+Pregunta: ¿Cuánto cuesta Copias Oficio?
+Respuesta: 0.75 pesos por unidad y 0.5 pesos al mayoreo (más de 80 piezas).
+
+Pregunta: ¿Cuánto cuestan los autos de carreras?
+Respuesta: El contexto no contiene información sobre el precio de los autos de carreras.
+
+Pregunta: ¿Cuál es el precio de los juguetes?
+Respuesta: No hay información sobre el precio de los juguetes en el contexto proporcionado.
+
+Pregunta: ¿Cuánto cuesta una computadora portátil?
+Respuesta: No hay información sobre el producto en el contexto proporcionado.
+
+Pregunta: ¿Cuánto cuesta una bicicleta?
+Respuesta: No hay información sobre el producto en el contexto proporcionado.
+
